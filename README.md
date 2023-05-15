@@ -1,2 +1,2 @@
 # TLOShopping
-Website bán hàng đa năng
+Website bán hàng
